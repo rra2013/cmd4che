@@ -1,4 +1,4 @@
-cmd4chee
-========
+cmd4che
+=======
 
 Commandante for che! 
